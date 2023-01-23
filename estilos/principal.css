@@ -9,3 +9,28 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+section{
+    margin: auto;
+}
+
+nav{
+    display: inline;
+}
+
+.icone{
+    display: block;
+    height: 50px;
+    width: 50px;
+}
+
+.icone > img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+iframe{
+    width: 400px;
+    height: 706px
+}
